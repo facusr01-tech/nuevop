@@ -1,0 +1,8971 @@
+{
+  "total_objects": 5412,
+  "materials": [
+    "Columnas_metalicas",
+    "Galeria_central",
+    "Mirador_10",
+    "Paneles_perforados",
+    "Pasamanos",
+    "Vigas_transversales",
+    "Dados_hormigon",
+    "Emblema",
+    "Marcos_paneles",
+    "Juntas_tableros",
+    "Bordes_senderos",
+    "Rotulo_geometrico",
+    "Flechas_subida",
+    "Cantos_y_zocalos",
+    "Mirador_08",
+    "Mirador_06",
+    "Cartel_circular",
+    "Pavimento_continuo",
+    "Coronacion_vortice",
+    "Terreno",
+    "Montantes_baranda",
+    "Pernos_y_uniones",
+    "Rampa_helicoidal",
+    "Flechas_salida",
+    "Mirador_04",
+    "Mirador_03",
+    "Mirador_02",
+    "Senderos",
+    "Mirador_01",
+    "Canales_LED",
+    "Material_3",
+    "Mastil_y_cerchas",
+    "Placas_anclaje",
+    "Mirador_05",
+    "Mirador_07",
+    "Desembarcos",
+    "Mirador_09",
+    "LED_cian"
+  ],
+  "objects": [
+    {
+      "name": "Apoyos",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Bandas LED",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Barandas",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Bordes_senderos_2",
+      "type": "EMPTY",
+      "parent": "Implantacion",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Canales_LED_2",
+      "type": "EMPTY",
+      "parent": "Bandas LED",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Cantos_y_zocalos_2",
+      "type": "EMPTY",
+      "parent": "Circulacion",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Cartel_circular_2",
+      "type": "EMPTY",
+      "parent": "Hito central",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Circulacion",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Columnas_metalicas_2",
+      "type": "EMPTY",
+      "parent": "Apoyos",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Coronacion_vortice_2",
+      "type": "EMPTY",
+      "parent": "Circulacion",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dados_hormigon_2",
+      "type": "EMPTY",
+      "parent": "Apoyos",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Derecha",
+      "type": "CAMERA",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        219.238,
+        -2.848,
+        7.246
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Desembarcos_2",
+      "type": "EMPTY",
+      "parent": "Circulacion",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Emblema_2",
+      "type": "EMPTY",
+      "parent": "Hito central",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Flechas_salida_2",
+      "type": "EMPTY",
+      "parent": "Orientacion peatonal",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Flechas_subida_2",
+      "type": "EMPTY",
+      "parent": "Orientacion peatonal",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Frontal",
+      "type": "CAMERA",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        2.091,
+        -306.755,
+        25.015
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Frontal_2",
+      "type": "CAMERA",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        6.312,
+        -80.212,
+        -3.291
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Galeria_central_2",
+      "type": "EMPTY",
+      "parent": "Circulacion",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Hito central",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Implantacion",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Juntas_tableros_2",
+      "type": "EMPTY",
+      "parent": "Circulacion",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LED_cian_2",
+      "type": "EMPTY",
+      "parent": "Bandas LED",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Marcos_paneles_2",
+      "type": "EMPTY",
+      "parent": "Barandas",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mastil_y_cerchas_2",
+      "type": "EMPTY",
+      "parent": "Hito central",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_01_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_02_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_03_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_04_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_05_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_06_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_07_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_08_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_09_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mirador_10_2",
+      "type": "EMPTY",
+      "parent": "Miradores",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Miradores",
+      "type": "EMPTY",
+      "parent": null,
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Montantes_baranda_2",
+      "type": "EMPTY",
+      "parent": "Barandas",
+      "materials": [],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Objeto_1",
+      "type": "MESH",
+      "parent": "Columnas_metalicas_2",
+      "materials": [
+        "Columnas_metalicas"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        2.33,
+        2.274,
+        10.886
+      ]
+    },
+    {
+      "name": "Objeto_10",
+      "type": "MESH",
+      "parent": "Flechas_salida_2",
+      "materials": [
+        "Flechas_salida"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.921,
+        1.363,
+        0.004
+      ]
+    },
+    {
+      "name": "Objeto_100",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.368,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1000",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1001",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1002",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1003",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1004",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1005",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1006",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1007",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1008",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1009",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_101",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.153,
+        0.074,
+        0.177
+      ]
+    },
+    {
+      "name": "Objeto_1010",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1011",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1012",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1013",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1014",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1015",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1016",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1017",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1018",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1019",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_102",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.408
+      ]
+    },
+    {
+      "name": "Objeto_1020",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1021",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1022",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1023",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1024",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1025",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1026",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1027",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1028",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1029",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_103",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.153,
+        0.074,
+        0.177
+      ]
+    },
+    {
+      "name": "Objeto_1030",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1031",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1032",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1033",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1034",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1035",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1036",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1037",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1038",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1039",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_104",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.368,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1040",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1041",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1042",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1043",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1044",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1045",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1046",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1047",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1048",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1049",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_105",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.276,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1050",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1051",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1052",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1053",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1054",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1055",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1056",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1057",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1058",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1059",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_106",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.153,
+        0.074,
+        0.177
+      ]
+    },
+    {
+      "name": "Objeto_1060",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1061",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1062",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1063",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1064",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1065",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1066",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1067",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1068",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1069",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_107",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.408
+      ]
+    },
+    {
+      "name": "Objeto_1070",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1071",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1072",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1073",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1074",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1075",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1076",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1077",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1078",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1079",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_108",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.153,
+        0.074,
+        0.177
+      ]
+    },
+    {
+      "name": "Objeto_1080",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1081",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1082",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1083",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1084",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1085",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1086",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1087",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1088",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1089",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_109",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.276,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1090",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1091",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1092",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1093",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1094",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1095",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1096",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1097",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1098",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1099",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_11",
+      "type": "MESH",
+      "parent": "Flechas_salida_2",
+      "materials": [
+        "Flechas_salida"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.88,
+        1.48,
+        0.004
+      ]
+    },
+    {
+      "name": "Objeto_110",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.153,
+        0.074,
+        0.177
+      ]
+    },
+    {
+      "name": "Objeto_1100",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1101",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1102",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1103",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1104",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1105",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1106",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1107",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1108",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1109",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_111",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.408
+      ]
+    },
+    {
+      "name": "Objeto_1110",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1111",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1112",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1113",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1114",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1115",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1116",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1117",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1118",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1119",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_112",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.153,
+        0.074,
+        0.177
+      ]
+    },
+    {
+      "name": "Objeto_1120",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1121",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1122",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1123",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1124",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1125",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1126",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1127",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1128",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1129",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_113",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.312,
+        0.074,
+        0.384
+      ]
+    },
+    {
+      "name": "Objeto_1130",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1131",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1132",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1133",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1134",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1135",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1136",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1137",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1138",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1139",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_114",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.42,
+        0.074,
+        0.108
+      ]
+    },
+    {
+      "name": "Objeto_1140",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1141",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1142",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1143",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1144",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1145",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1146",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1147",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1148",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1149",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_115",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.117,
+        0.074,
+        0.189
+      ]
+    },
+    {
+      "name": "Objeto_1150",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1151",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1152",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1153",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1154",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1155",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1156",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1157",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1158",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1159",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_116",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.172,
+        0.074,
+        0.184
+      ]
+    },
+    {
+      "name": "Objeto_1160",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1161",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1162",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1163",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1164",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1165",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1166",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1167",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1168",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1169",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_117",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.345,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1170",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1171",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1172",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1173",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1174",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1175",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1176",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1177",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1178",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1179",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_118",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.68
+      ]
+    },
+    {
+      "name": "Objeto_1180",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1181",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1182",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1183",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1184",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1185",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1186",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1187",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1188",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1189",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_119",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.6
+      ]
+    },
+    {
+      "name": "Objeto_1190",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1191",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1192",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1193",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1194",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1195",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1196",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1197",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1198",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1199",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_12",
+      "type": "MESH",
+      "parent": "Flechas_salida_2",
+      "materials": [
+        "Flechas_salida"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.834,
+        1.457,
+        0.004
+      ]
+    },
+    {
+      "name": "Objeto_120",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.5,
+        0.074,
+        0.644
+      ]
+    },
+    {
+      "name": "Objeto_1200",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1201",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1202",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1203",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1204",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1205",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1206",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1207",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1208",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1209",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_121",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.6
+      ]
+    },
+    {
+      "name": "Objeto_1210",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1211",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1212",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1213",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1214",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1215",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1216",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1217",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1218",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1219",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_122",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.44,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1220",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1221",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1222",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1223",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1224",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1225",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1226",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1227",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1228",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1229",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_123",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.6
+      ]
+    },
+    {
+      "name": "Objeto_1230",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1231",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1232",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1233",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1234",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1235",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1236",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1237",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1238",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1239",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_124",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.44,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1240",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1241",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1242",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1243",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1244",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1245",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1246",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1247",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1248",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1249",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_125",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.48
+      ]
+    },
+    {
+      "name": "Objeto_1250",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1251",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1252",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1253",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1254",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1255",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1256",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1257",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1258",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1259",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_126",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1260",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1261",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1262",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1263",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1264",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1265",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1266",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1267",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1268",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1269",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_127",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.264,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1270",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1271",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1272",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1273",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1274",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1275",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1276",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1277",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1278",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1279",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_128",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1280",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1281",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1282",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1283",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1284",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1285",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1286",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1287",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1288",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1289",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_129",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.48
+      ]
+    },
+    {
+      "name": "Objeto_1290",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1291",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1292",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1293",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1294",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1295",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1296",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1297",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1298",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1299",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_13",
+      "type": "MESH",
+      "parent": "Flechas_salida_2",
+      "materials": [
+        "Flechas_salida"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        1.489,
+        0.871,
+        0.068
+      ]
+    },
+    {
+      "name": "Objeto_130",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.275,
+        0.074,
+        0.29
+      ]
+    },
+    {
+      "name": "Objeto_1300",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1301",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1302",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1303",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1304",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1305",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1306",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1307",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1308",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1309",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_131",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.264,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1310",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1311",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1312",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1313",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1314",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1315",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1316",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1317",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1318",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1319",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_132",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1320",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1321",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1322",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1323",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1324",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1325",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1326",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1327",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1328",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1329",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_133",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.36
+      ]
+    },
+    {
+      "name": "Objeto_1330",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1331",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1332",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1333",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1334",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1335",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1336",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1337",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1338",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1339",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_134",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1340",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1341",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1342",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1343",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1344",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1345",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1346",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1347",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1348",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1349",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_135",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.264,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1350",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1351",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1352",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1353",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1354",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1355",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1356",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1357",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1358",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1359",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_136",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1360",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1361",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1362",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1363",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1364",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1365",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1366",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1367",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1368",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1369",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_137",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.074,
+        0.074,
+        0.36
+      ]
+    },
+    {
+      "name": "Objeto_1370",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1371",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1372",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1373",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1374",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1375",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1376",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1377",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1378",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1379",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_138",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1380",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1381",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1382",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1383",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1384",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1385",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1386",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1387",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1388",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1389",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_139",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.308,
+        0.074,
+        0.074
+      ]
+    },
+    {
+      "name": "Objeto_1390",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1391",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1392",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1393",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1394",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1395",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1396",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1397",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1398",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1399",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_14",
+      "type": "MESH",
+      "parent": "Flechas_salida_2",
+      "materials": [
+        "Flechas_salida"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        1.183,
+        1.15,
+        0.068
+      ]
+    },
+    {
+      "name": "Objeto_140",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.148,
+        0.074,
+        0.164
+      ]
+    },
+    {
+      "name": "Objeto_1400",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1401",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1402",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1403",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1404",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1405",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1406",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1407",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1408",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1409",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_141",
+      "type": "MESH",
+      "parent": "Rotulo_geometrico_2",
+      "materials": [
+        "Rotulo_geometrico"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.113,
+        0.074,
+        0.145
+      ]
+    },
+    {
+      "name": "Objeto_1410",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1411",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.044,
+        0.044,
+        1.025
+      ]
+    },
+    {
+      "name": "Objeto_1412",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1413",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    },
+    {
+      "name": "Objeto_1414",
+      "type": "MESH",
+      "parent": "Montantes_baranda_2",
+      "materials": [
+        "Montantes_baranda"
+      ],
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dim": [
+        0.052,
+        0.052,
+        1.0
+      ]
+    }
+  ]
+}

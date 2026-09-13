@@ -1,0 +1,17 @@
+{
+  "name": "visor-3d-obj",
+  "version": "1.0.0",
+  "description": "Visor web 3D para archivos OBJ con selección por capas y QR",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "three": "^0.167.0",
+    "qrcode": "^1.5.4"
+  }
+}

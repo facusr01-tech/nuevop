@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+dist-ssr/
+
+# Heavy 3D model files (exceeding GitHub and Vercel 100MB limits)
+*.fbx
+*.blend
+*.blend1
+paravisor.fbx
+paravisor.glb
+paravisor_rapido.glb
+public/paravisor.fbx
+public/paravisor.glb
+public/paravisor_rapido.glb
+modelo-rapido/
+
+# Environment and editor
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
