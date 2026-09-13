@@ -1159,6 +1159,8 @@ function animate() {
 animate();
 
 // ── Initial Boot ─────────────────────────────────────────────────────
+const DEFAULT_MODEL_URL = 'https://github.com/facusr01-tech/nuevop/releases/download/v1.0/paravisor_rapido.glb';
+
 const urlParams = new URLSearchParams(window.location.search);
 const modelParam = urlParams.get('model');
 
@@ -1166,29 +1168,20 @@ if (modelParam) {
   currentModelUrl = modelParam;
   loadModelFromUrl(modelParam, 'Modelo Remoto');
 } else {
-  // Try local optimized model first
+  // Check local model first (fastest for localhost)
   fetch('/paravisor_rapido.glb', { method: 'HEAD' })
     .then(res => {
       if (res.ok) {
         currentModelUrl = '/paravisor_rapido.glb';
         loadModelFromUrl('/paravisor_rapido.glb', 'Mirador BIM Optimizado');
       } else {
-        return fetch('/paravisor.glb', { method: 'HEAD' }).then(r2 => {
-          if (r2.ok) {
-            currentModelUrl = '/paravisor.glb';
-            loadModelFromUrl('/paravisor.glb', 'Mirador y Centro de Interpretación');
-          } else {
-            updateLoading(100, 'Listo');
-            showToast('👋 ¡Visor listo! Arrastrá tu modelo o usá "Cargar URL"', 5000);
-            statsSummary.textContent = 'Sin modelo cargado';
-          }
-        });
+        currentModelUrl = DEFAULT_MODEL_URL;
+        loadModelFromUrl(DEFAULT_MODEL_URL, 'Mirador BIM Optimizado');
       }
     })
     .catch(() => {
-      updateLoading(100, 'Listo');
-      showToast('👋 ¡Visor listo! Arrastrá tu modelo o usá "Cargar URL"', 5000);
-      statsSummary.textContent = 'Sin modelo cargado';
+      currentModelUrl = DEFAULT_MODEL_URL;
+      loadModelFromUrl(DEFAULT_MODEL_URL, 'Mirador BIM Optimizado');
     });
 }
 
