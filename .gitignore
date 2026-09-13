@@ -12,12 +12,12 @@ dist-ssr/
 *.fbx
 *.blend
 *.blend1
-paravisor.fbx
-paravisor.glb
-paravisor_rapido.glb
+/paravisor.fbx
+/paravisor.glb
+/paravisor_rapido.glb
 public/paravisor.fbx
-public/paravisor.glb
 public/paravisor_rapido.glb
+!public/paravisor.glb
 modelo-rapido/
 
 # Environment and editor

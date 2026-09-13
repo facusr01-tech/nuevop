@@ -1159,7 +1159,7 @@ function animate() {
 animate();
 
 // ── Initial Boot ─────────────────────────────────────────────────────
-const DEFAULT_MODEL_URL = 'https://github.com/facusr01-tech/nuevop/releases/download/v1.0/paravisor_rapido.glb';
+const DEFAULT_MODEL_URL = '/paravisor.glb';
 
 const urlParams = new URLSearchParams(window.location.search);
 const modelParam = urlParams.get('model');
@@ -1168,20 +1168,7 @@ if (modelParam) {
   currentModelUrl = modelParam;
   loadModelFromUrl(modelParam, 'Modelo Remoto');
 } else {
-  // Check local model first (fastest for localhost)
-  fetch('/paravisor_rapido.glb', { method: 'HEAD' })
-    .then(res => {
-      if (res.ok) {
-        currentModelUrl = '/paravisor_rapido.glb';
-        loadModelFromUrl('/paravisor_rapido.glb', 'Mirador BIM Optimizado');
-      } else {
-        currentModelUrl = DEFAULT_MODEL_URL;
-        loadModelFromUrl(DEFAULT_MODEL_URL, 'Mirador BIM Optimizado');
-      }
-    })
-    .catch(() => {
-      currentModelUrl = DEFAULT_MODEL_URL;
-      loadModelFromUrl(DEFAULT_MODEL_URL, 'Mirador BIM Optimizado');
-    });
+  currentModelUrl = DEFAULT_MODEL_URL;
+  loadModelFromUrl(DEFAULT_MODEL_URL, 'Mirador BIM');
 }
 
